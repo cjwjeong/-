@@ -33,7 +33,28 @@
 //   console.log(tree);
 // }
 
+//11번
+// let s = 0;
 
+// for(i=0;i<=100;i++){
+//   s += i
+// }
+
+// console.log(s);
+
+//12번
+// function Wizard(health, mana, armor){
+//   this.health = health;
+//   this.mana = mana;
+//   this.armor = armor;
+//   this.attack = () => {
+//     console.log("파이어볼")
+//   }
+// }
+
+// const x = new Wizard(540, 210, 10);
+// console.log(x.health, x.mana, x.armor)
+// x.attack()
 
 
 
